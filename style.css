@@ -1,0 +1,14 @@
+#menu-h li{
+    text-align: center;
+    border: 2px;
+    margin-left: 150px;
+    border-color: rgb(218, 43, 43);
+    display: inline;
+    background-color: #444343;
+    text-decoration: none;
+}
+#menu {
+    text-align: center;
+    margin-top: 120px;
+    
+}
